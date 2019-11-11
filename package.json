@@ -1,0 +1,26 @@
+{
+  "name": "speed-hackathon-jsconfjp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "wait-on tcp:3000 && opener http://localhost:3000/2019/speakers & node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxMEllon/speed-hackathon-jsconfjp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxMEllon/speed-hackathon-jsconfjp/issues"
+  },
+  "homepage": "https://github.com/MaxMEllon/speed-hackathon-jsconfjp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "opener": "^1.5.1",
+    "wait-on": "^3.3.0"
+  }
+}
