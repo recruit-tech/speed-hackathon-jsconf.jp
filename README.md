@@ -1,6 +1,10 @@
 ## About
 
-- TODO
+- jsconf.jp 二日目 スピードハッカソン (Recruit Technologies スポンサーセッション）
+
+JSConf JP 内のスポンサートークで http://web.dev にも掲載された[スピードハッカソン](https://web.dev/five-ways-airshift-improved-their-react-app/#5.-performance-hackathons)をやります。
+実際にあるサイト（ここでは http://jsconf.jp のサイト）を高速化します。
+
 
 ## 開発を始める
 
